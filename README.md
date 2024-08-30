@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NacerHR87
 - 👀 I’m interested in Business Consulting , Talent Acquisition, Project Management
 - 🌱 I’m currently learning ..power bi , mysql.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on power bi projects, project management , HR..
 - 📫 How to reach me mn-rahmani@hotmail.fr
   
   
